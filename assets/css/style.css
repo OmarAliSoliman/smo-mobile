@@ -39,16 +39,7 @@ img {
   padding-top: 110px;
   height: 776px;
   position: relative;
-}
-.header::after {
-  content: url("../images/header-after.png");
-  position: absolute;
-  right: -432px;
-  top: -105px;
-  bottom: 0;
-  width: 100%;
-  height: 944px;
-  z-index: -1;
+  background-color: #F75A33;
 }
 .header .logo {
   max-width: 204px;

@@ -44,24 +44,11 @@ img {
   height: 930px;
 }
 .header{
-  // background-size: cover;
-  // background-position: center;
   text-align: center;
   padding-top: 110px;
   height: 776px;
   position: relative;
-  &::after{
-    content: url('../images/header-after.png');
-    position: absolute;
-    right: -432px;
-    // left: 0;
-    top: -105px;
-    bottom: 0;
-    width: 100%;
-    height: 944px;
-    // overflow: hidden;
-    z-index: -1;
-  }
+  background-color: #F75A33;
   .logo{
     max-width: 204px;
     max-height: 308px;
