@@ -143,14 +143,14 @@ img {
   width: 100%;
 }
 
-footer {
+.custom-footer {
   background-color: #F75A33;
   padding-top: 97px;
   padding-bottom: 97px;
   text-align: center;
-  margin-top: 350px;
+  margin-top: 130px;
 }
-footer img {
+.custom-footer img {
   width: 100%;
   max-height: 194px;
   max-width: 128px;
