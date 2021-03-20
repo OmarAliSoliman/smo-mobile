@@ -100,7 +100,6 @@ img {
   padding-top: 36px;
   text-align: center;
   height: 796px;
-  margin-top: 88px;
 }
 .take-discount .take-header h5 {
   font-size: 35px;
@@ -148,7 +147,7 @@ img {
   padding-top: 97px;
   padding-bottom: 97px;
   text-align: center;
-  margin-top: 130px;
+  margin-top: 90px;
 }
 .custom-footer img {
   width: 100%;
@@ -198,6 +197,14 @@ img {
     top: 50%;
     left: 22% !important;
   }
+
+  .take-discount {
+    height: auto !important;
+  }
+
+  .our-worke {
+    margin-top: 100px;
+  }
 }
 @media (max-width: 800px) {
   .owl-next {
@@ -210,6 +217,10 @@ img {
     position: absolute;
     top: 50%;
     left: 13% !important;
+  }
+
+  .take-discount .take-header h6 {
+    font-size: 50px;
   }
 }
 @media (max-width: 524px) {
@@ -227,6 +238,11 @@ img {
     position: absolute;
     top: 50%;
     left: 0 !important;
+  }
+}
+@media (max-width: 321px) {
+  .contacts .whts-contact {
+    height: auto;
   }
 }
 
