@@ -10,7 +10,7 @@ $(document).ready(function () {
       responsiveClass: true,
       nav: true,
       autoplay: true,
-      autoplayTimeout: 5000,
+      autoplayTimeout: 7000,
       arrows: true,
       animateOut: 'fadeOut',
       items: 1,
