@@ -109,9 +109,10 @@ img {
   color: #F75A33;
 }
 .take-discount .take-header h6 {
-  font-size: 117px;
+  font-size: 50px;
   color: #F75A33;
   font-weight: bold;
+  margin-bottom: 30px;
 }
 .take-discount .download {
   margin-bottom: 72px;
